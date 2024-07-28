@@ -1,0 +1,28 @@
+{
+  "name": "product-list-with-cart",
+  "version": "1.0.0",
+  "description": "![Design preview for the Product list with cart coding challenge](./preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss ./src/main.css -o ./build/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rebrodie/Product-list-with-cart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rebrodie/Product-list-with-cart/issues"
+  },
+  "homepage": "https://github.com/Rebrodie/Product-list-with-cart#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.40",
+    "tailwindcss": "^3.4.7"
+  },
+  "dependencies": {
+    "postcss-cli": "^11.0.0"
+  }
+}
